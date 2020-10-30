@@ -6,7 +6,7 @@ body {
 #gameContainer {
 	/*width: 1700px;*/
 	perspective: 1000px;
-	padding-top: 50px;
+	padding-top: 20px;
 }
 
 #character_selection {
@@ -24,6 +24,15 @@ body {
 	/*display: inline-block;*/
 	width: 95%;
 	margin: 10px auto;
+}
+
+#title {
+	color: orange;
+	font-family:'Butcherman';
+	font-size: 64px;
+	display: block;
+	text-align: center;
+	line-height: 100px;
 }
 
 .tile {
