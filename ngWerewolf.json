@@ -51,7 +51,7 @@
 		"character" : "",
 		"picture": "img/will.png",
 		"playing": true,
-		"sound": ["audio/kill.ogg"]
+		"sound": ["audio/will1.ogg","audio/will2.ogg"]
 	},
 	{
 		"isFlipped": false,
